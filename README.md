@@ -46,4 +46,4 @@ El sistema cuenta con un menú interactivo basado en una estructura de control c
 2. Clona o descarga el repositorio.
 3. Ejecuta el script principal desde tu terminal o consola de comandos:
    ```bash
-   python nombre_de_tu_archivo.py
+   python aprendizaje_autonomo2_password_generator.py
