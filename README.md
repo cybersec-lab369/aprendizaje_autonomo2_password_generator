@@ -13,7 +13,7 @@ El objetivo de este sistema es proporcionar una herramienta interactiva en entor
 
 ## Descripción de Funcionalidades
 
-El sistema cuenta con un menú interactivo basado en una estructura de control cíclica que permite realizar las siguientes acciones de forma iterativa:
+El sistema cuenta con un menú interactivo basado en una estructura de control cíclica que permite realizar las siguientes acciones de forma interactiva:
 
 1. Generación Automatizada de Contraseñas (Opción 1):
    - Permite definir una longitud personalizada para la clave.
